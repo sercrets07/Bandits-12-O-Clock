@@ -1,0 +1,8 @@
+Required:
+- Discord.png
+- Kofi.png
+- YouTube.png
+
+Optional cassette animation files:
+- cassete.png
+- cassetewheel.png

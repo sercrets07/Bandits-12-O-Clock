@@ -1038,7 +1038,7 @@ def dialogue():
 
 def copy_sound_to_mission_folder():
     soundpath = selected_system_sound_path.get()
-    mission_path = mission_path_var.get()
+    mission_path = game_dir.get()
 
     if not soundpath or not os.path.exists(soundpath):
         messagebox.showwarning(
@@ -1056,7 +1056,7 @@ def copy_sound_to_mission_folder():
 
     mission_dir = Path(mission_path).parent
 
-    target_dir = mission_dir / "audio" / "custom"
+    target_dir = "audio" / "custom"
     target_dir.mkdir(parents=True, exist_ok=True)
 
     destination = target_dir / Path(soundpath).name
@@ -1458,7 +1458,7 @@ def open_registered_trigger_editor():
                 )
                 return
 
-            target_dir = Path(mission_path).parent / "audio" / "custom"
+            target_dir = game_dir / "audio" / "custom"
             target_dir.mkdir(parents=True, exist_ok=True)
             destination = target_dir / source_path.name
 

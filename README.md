@@ -26,6 +26,10 @@ Create repeatable or one-time events.
 Require a condition to remain true for a specified amount of time.
 This allows missions to respond to the player rather than simply playing events on a fixed timer.
 
+## More Information:
+See the following forum post: https://www.sas1946.com/main/index.php/topic,75883.msg822115.html#msg822115
+
+
 ## Like Bandits! 12 O'Clock?
 Please consider supporting by joining my discord or donating to my Kofi! 
 [![Discord](assets/images/Discord.png)](https://discord.gg/ejtcsGWugs)

@@ -28,5 +28,5 @@ This allows missions to respond to the player rather than simply playing events 
 
 ## Like Bandits! 12 O'Clock?
 Please consider supporting by joining my discord or donating to my Kofi! 
-[![Discord](images/discord.png)](https://discord.gg/ejtcsGWugs)
-[![Ko-fi](images/kofi.png)](https://ko-fi.com/sercrets)
+[![Discord](assets/images/Discord.png)](https://discord.gg/ejtcsGWugs)
+[![Ko-fi](assets/images/Kofi.png)](https://ko-fi.com/sercrets)

@@ -26,6 +26,12 @@ Create repeatable or one-time events.
 Require a condition to remain true for a specified amount of time.
 This allows missions to respond to the player rather than simply playing events on a fixed timer.
 
+## What it looks like:
+<img src="assets/images/Bandits1.webp" alt="Bandits1" width="500"> <img src="assets/images/Bandits2.webp" alt="Bandits2" width="500">
+
+<img src="assets/images/Bandits3.webp" alt="Bandits3" width="500">
+
+
 ## More Information:
 See the following forum post: https://www.sas1946.com/main/index.php/topic,75883.msg822115.html#msg822115
 
